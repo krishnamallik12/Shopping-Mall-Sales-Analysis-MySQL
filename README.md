@@ -19,14 +19,14 @@ This repository contains all the necessary files to replicate and understand the
 ## 📊 Data Schema Overview (Key Fields)
 The analysis is based on a transactional dataset, where the key fields used for deriving insights include:
 
-• Mall Name (`shopping_mall`): The location of the purchase (e.g., Kanyon, Istinye Park).
-• Category (`category`): The product category purchased (e.g., Clothing, Technology).
-• Payment Method (`payment_method`): The method used for the transaction (Cash, Credit Card, or Debit Card).
+• Mall Name (`shopping_mall`): The location of the purchase (e.g., Kanyon, Istinye Park)
+• Category (`category`): The product category purchased (e.g., Clothing, Technology)
+• Payment Method (`payment_method`): The method used for the transaction (Cash, Credit Card, or Debit Card)
 • Customer Demographics:
     • Customer Age (`age`): Age of the customer at the time of transaction.
     • Customer Gender (`gender`): Gender of the customer.
-• Sales Amount (`price`): The transaction amount/unit price.
-• Transaction Date (`invoice_date`): The date of the transaction, used for time-series analysis.
+• Sales Amount (`price`): The transaction amount/unit price
+• Transaction Date (`invoice_date`): The date of the transaction, used for time-series analysis
 
 ---
 

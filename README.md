@@ -1,6 +1,6 @@
 # Shopping-Mall-Sales-Analysis-MySQL
 
-➤ Project Overview  
+## 📌 Project Overview  
 This MySQL project analyzes shopping mall sales data to uncover top-performing malls, category trends, payment method preferences, demographic insights, and time-based sales patterns using advanced SQL queries.  
 
 The goal is to transform raw retail data into meaningful business insights that help understand overall performance and customer behavior across different shopping malls.
@@ -30,7 +30,7 @@ The analysis is based on a transactional dataset, where the key fields used for 
 
 ---
 
-## Objectives  
+## 🎯 Objectives  
 • Identify top-performing shopping malls based on total sales  
 • Discover the most and least selling product categories  
 • Analyze gender and age-based spending patterns  
@@ -39,7 +39,7 @@ The analysis is based on a transactional dataset, where the key fields used for 
 
 ---
 
-## SQL Concepts & Skills Demonstrated 
+## 🧠 SQL Concepts & Skills Demonstrated 
 • Data Cleaning 
 • Common Table Expressions (CTEs)  
 • Window Functions   
@@ -49,14 +49,14 @@ The analysis is based on a transactional dataset, where the key fields used for 
 
 ---
 
-## Tools & Technologies  
+## 🛠️ Tools & Technologies  
 • Database: MySQL  
 • Environment: MySQL Workbench  
 • Language: SQL  
 
 ---
 
-## Key Insights (From Analysis)  
+## 📊 Key Insights (From Analysis)  
 • Kanyon achieved the highest total sales, while Istinye Park recorded the lowest  
 • Kanyon, Metropol AVM, and Mall of Istanbul have above-average total sales among all malls  
 • Clothing is the most purchased category, especially by the 26–35 age group  

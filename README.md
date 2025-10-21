@@ -69,3 +69,12 @@ The analysis is based on a transactional dataset, where the key fields used for 
 
 ---
 
+<img width="1265" height="712" alt="Yearly_Sales" src="https://github.com/user-attachments/assets/c7ea3361-e0e6-40fc-9116-41566ac50ff0" />
+
+
+<img width="1269" height="708" alt="Monthly_Sales" src="https://github.com/user-attachments/assets/296ffa78-a17d-4e85-821d-895f491ffa5f" />
+
+
+<img width="1266" height="713" alt="Demographic_Insight" src="https://github.com/user-attachments/assets/ec0cca0e-5c33-4e91-a751-f913d5807feb" />
+
+
